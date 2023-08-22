@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>XposedApi</id>
+    <version>1.0.0</version>
+    <title>Xposed Api</title>
+    <authors>sxi3265</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/sxi3265/XposedApi</projectUrl>
+    <description>Xamarin binding library for Xposed API</description>
+    <releaseNotes>Package according to api-82.jar.</releaseNotes>
+    <copyright>sxi3265</copyright>
+    <tags>Xamarin Xposed</tags>
+  </metadata>
+</package>
